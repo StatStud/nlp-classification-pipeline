@@ -1,6 +1,6 @@
 # nlp-classification-pipeline
 
-![Alt Text](demo.jpg)
+![Alt Text](demo.png)
 
 Train models, bayesian hyperparameter search, model tracking, and spreadsheet results.
 
