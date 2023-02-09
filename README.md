@@ -1,4 +1,7 @@
 # nlp-classification-pipeline
+
+![Alt Text](demo.jpg)
+
 Train models, bayesian hyperparameter search, model tracking, and spreadsheet results.
 
 This repo uses two scripts: main.py and train.py. 
